@@ -19,9 +19,7 @@ public class ArithmeticBase
     double calculate(double x, double y) 
         {
 
-    /**
-     *publci
-     */
+   
         enum Operations{PLUS,MINUS,DIVIDE, MULTIPLY};
    
             double r = 0;
